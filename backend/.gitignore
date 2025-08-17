@@ -13,7 +13,7 @@ dist/
 build/
 
 # Ignore environment variables
-.env
+config.env
 
 # Ignore IDE/editor folders
 .vscode/
